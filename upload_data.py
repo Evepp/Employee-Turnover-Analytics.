@@ -6,3 +6,7 @@ def read_data(csv_url):
     return df
 
 
+def are_there_null():
+
+
+    return
