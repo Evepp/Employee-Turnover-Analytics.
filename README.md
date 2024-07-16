@@ -7,11 +7,9 @@ Data from prior evaluations shows the employees’ satisfaction in the workplace
 The HR Department owns the data and uses it to predict employee turnover. Employee turnover refers to the total number of workers who leave a company over time.
 
 The goals are: 
-1. Perform data quality checks by checking for missing values, if any.
-2. Understand what factors contributed most to employee turnover at EDA.
-3. Perform clustering of employees who left based on their satisfaction and 
+- Understand what factors contributed most to employee turnover at EDA.
+- Perform clustering of employees who left based on their satisfaction and 
 evaluation.
-4. Handle the left Class Imbalance using the SMOTE technique.
-5. Perform k-fold cross-validation model training and evaluate performance. 
-6. Identify the best model and justify the evaluation metrics used. 
-7. Suggest various retention strategies for targeted employees.
+- Handle the left Class Imbalance using the SMOTE technique.
+- Perform k-fold cross-validation model training and evaluate performance. 
+- Suggest various retention strategies for targeted employees.
